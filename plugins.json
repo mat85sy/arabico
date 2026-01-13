@@ -1,12 +1,12 @@
 [{
     "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.cloud&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/mat85sy/CloudStreamArrepo",
+    "repositoryUrl": "https://github.com/mat85sy/arabico",
     "fileSize": 16194,
     "status": 1,
     "language": "ar",
     "authors": [
-        "matar_000"
+        "mat85sy"
     ],
     "tvTypes": [
         "TvSeries",
@@ -16,7 +16,7 @@
     ],
     "version": 1,
     "internalName": "FaselHDProvider",
-    "url": "https://github.com/mat85sy/CloudStreamArrepo/raw/main/build/FaselHDProvider.cs3",
+    "url": "https://github.com/mat85sy/arabico/raw/main/build/FaselHDProvider.cs3",
     "name": "FaselHDProvider"
 },    
     
